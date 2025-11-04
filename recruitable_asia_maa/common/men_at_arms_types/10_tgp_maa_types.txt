@@ -526,6 +526,9 @@ ballista = {
 				has_cultural_pillar = heritage_chinese
 				has_cultural_pillar = heritage_korean
 				has_cultural_pillar = heritage_japonic
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_chinese }
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_korean }
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_japonic }
 			}
 		}
 		NOR = {
@@ -565,6 +568,9 @@ cloud_ladder = {
 				has_cultural_pillar = heritage_chinese
 				has_cultural_pillar = heritage_korean
 				has_cultural_pillar = heritage_japonic
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_chinese }
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_korean }
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_japonic }
 			}	
 		}
 		NOR = {
@@ -605,6 +611,9 @@ siege_tower = {
 				has_cultural_pillar = heritage_chinese
 				has_cultural_pillar = heritage_korean
 				has_cultural_pillar = heritage_japonic
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_chinese }
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_korean }
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_japonic }
 			}
 		}
 		NOR = {
@@ -645,6 +654,9 @@ cannon = {
 				has_cultural_pillar = heritage_chinese
 				has_cultural_pillar = heritage_korean
 				has_cultural_pillar = heritage_japonic
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_chinese }
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_korean }
+				any_parent_culture_or_above = { has_cultural_pillar = heritage_japonic }
 			}
 		}
 		NOR = {
