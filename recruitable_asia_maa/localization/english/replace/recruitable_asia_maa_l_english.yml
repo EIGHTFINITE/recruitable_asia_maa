@@ -1,0 +1,2 @@
+﻿l_english:
+ culture_parameter_must_pledge_loyalty_to_liege: "Can recruit [GetMaA('samurai').GetName] despite having the [GetCultureTradition('tradition_strength_in_numbers').GetName] [tradition|E]\n$EFFECT_LIST_BULLET$Must #v Pledge Loyalty#! promptly once the [decision|E] is available"
